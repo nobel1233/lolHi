@@ -1,0 +1,6 @@
+package com.sbs.example.lolHi.service;
+
+@Service
+public class ArticleService {
+
+}

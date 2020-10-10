@@ -1,0 +1,10 @@
+package com.sbs.example.lolHi.dto;
+
+public class Article {
+	private int id;
+	private String regDate;
+	private String updatedate;
+	private String title;
+	private String body;
+
+}
